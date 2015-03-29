@@ -1,0 +1,32 @@
+build:
+  - 'clean'
+  - 'copy:build'
+  - 'copy:dev'
+  - 'concat:quotes'
+  - 'sprite:icons'
+  - 'cssUrlEmbed'
+  - 'processhtml:dev'
+  - 'htmlmin:dev'
+
+dev:
+  - 'build'
+  - 'connect:dev'
+  - 'watch'
+
+dist:
+  - 'clean'
+  - 'copy:build'
+  - 'copy:dist'
+  - 'concat:quotes'
+  - 'sprite:icons'
+  - 'cssUrlEmbed'
+  - 'processhtml:dist'
+  - 'htmlmin:dist'
+
+publish:
+  - 'dist'
+  - 'gh-pages:manual'
+
+travis:
+  - 'dist'
+  - 'gh-pages:travis'

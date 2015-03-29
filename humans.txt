@@ -1,0 +1,8 @@
+/* TEAM */
+    Author: Paul Makovich
+    Contact: github.com/makovich
+    From: Minsk, Belarus
+
+/* SITE */
+    First release: 2014
+    Language: English

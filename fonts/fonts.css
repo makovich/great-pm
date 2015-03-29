@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 200;
+    src: url('Dosis_200_normal.eot');                                   /* http://fonts.gstatic.com/s/dosis/v4/ObbIOKT7x5q3tD-LZ0O70fesZW2xOQ-xsNqO47m55DA.eot */
+    src: local('вє'),
+        url('Dosis_200_normal.eot?#iefix') format('embedded-opentype'), /* http://fonts.gstatic.com/s/dosis/v4/ObbIOKT7x5q3tD-LZ0O70fesZW2xOQ-xsNqO47m55DA.eot */
+        url('Dosis_200_normal.woff') format('woff'),                    /* http://fonts.gstatic.com/s/dosis/v4/zuuDDmIlQfJeEM3Uf6kkpvesZW2xOQ-xsNqO47m55DA.woff */
+        url('Dosis_200_normal.ttf') format('truetype'),                 /* http://fonts.gstatic.com/s/dosis/v4/05xr33FHwecUTIADg28rEXYhjbSpvc47ee6xR_80Hnw.ttf */
+        url('Dosis_200_normal.svg#Dosis_200_normal') format('svg');         /* http://fonts.gstatic.com/l/font?kit=7Rno8JpHMLQx69KPHKIkEPesZW2xOQ-xsNqO47m55DA#Dosis */
+}
+@font-face {
+    font-family: 'Smythe';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Smythe_400_normal.eot');                                   /* http://fonts.gstatic.com/s/smythe/v7/oJrH2fV_mJGB3ElY04WYlw.eot */
+    src: local('вє'),
+        url('Smythe_400_normal.eot?#iefix') format('embedded-opentype'), /* http://fonts.gstatic.com/s/smythe/v7/oJrH2fV_mJGB3ElY04WYlw.eot */
+        url('Smythe_400_normal.woff') format('woff'),                    /* http://fonts.gstatic.com/s/smythe/v7/UeOvazFlpeDk3j-QW5iu7g.woff */
+        url('Smythe_400_normal.ttf') format('truetype'),                 /* http://fonts.gstatic.com/s/smythe/v7/o9A83qr3m7kpC090IAtseevvDin1pK8aKteLpeZ5c0A.ttf */
+        url('Smythe_400_normal.svg#Smythe_400_normal') format('svg');         /* http://fonts.gstatic.com/l/font?kit=brAFiaWEuSzOzZ8idKmXow#Smythe */
+}
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    src: url('Ubuntu_400_normal.eot');                                   /* http://fonts.gstatic.com/s/ubuntu/v7/_tMhxyW6i8lbI7YsUdFlGA.eot */
+    src: local('вє'),
+        url('Ubuntu_400_normal.eot?#iefix') format('embedded-opentype'), /* http://fonts.gstatic.com/s/ubuntu/v7/_tMhxyW6i8lbI7YsUdFlGA.eot */
+        url('Ubuntu_400_normal.woff') format('woff'),                    /* http://fonts.gstatic.com/s/ubuntu/v7/_xyN3apAT_yRRDeqB3sPRg.woff */
+        url('Ubuntu_400_normal.ttf') format('truetype'),                 /* http://fonts.gstatic.com/s/ubuntu/v7/sVvvcJDRTINJla2R4XwPVevvDin1pK8aKteLpeZ5c0A.ttf */
+        url('Ubuntu_400_normal.svg#Ubuntu_400_normal') format('svg');         /* http://fonts.gstatic.com/l/font?kit=MOWTjcs_zhdIcGnXsgVhnA#Ubuntu */
+}

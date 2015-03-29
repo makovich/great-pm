@@ -1,0 +1,7 @@
+node_modules
+tmp/
+dist/
+bower_components/
+.grunt/
+.vagrant/
+*.sublime-workspace
