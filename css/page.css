@@ -213,14 +213,14 @@ div.article {
 }
 
 /*  DIVIDERS  */
-li {
+ul.quotes > li {
     display: block;
 
     list-style-type: none;
 }
-li:after,
-li:first-child:before,
-li.anchored:before {
+ul.quotes > li:after,
+ul.quotes > li:first-child:before,
+ul.quotes > li.anchored:before {
     display: block;
 
     padding-bottom: 20px;

@@ -36,9 +36,9 @@ jQuery(function ($) {
                 this.$knight = $('.knight');
                 
                 this.$article = $('body > div.article');
-                this.$quotes = $('ul li blockquote');
-                this.$quotesContainers = $('ul li');
-                this.$quotesList = $('ul');
+                this.$quotes = $('ul.quotes > li > blockquote');
+                this.$quotesContainers = $('ul.quotes > li');
+                this.$quotesRoots = $('ul.quotes');
 
                 this.$showAllButton = $('header a.show-all');
             },
@@ -147,7 +147,7 @@ jQuery(function ($) {
                 this.positionateFooter();
             },
             shuffleQuotes: function () {
-                var ul = this.$quotesList[0];
+                var ul = this.$quotesRoots[0];
                 
                 for (var i = ul.children.length; i >= 0; i--) {
                     ul.appendChild(ul.children[Math.random() * i | 0]);
