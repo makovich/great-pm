@@ -7,7 +7,7 @@ before_script:
   - npm install -g grunt-cli
 
 script:
-  - grunt --verbose travis
+  - grunt travis
 
 env:
   - secure: "Ha8fZd8sXM6kqEdQlgLt1Z7dv/zWBzlfBAqI2/X6Kzi1miCfZWcTJ8/ubv3sbfm7ExBSQbTe9r/bflwiNFK5xBv4byrh1Y/dSRdQtV3KrTwx5mJtq1G9oUTIFx5baI+ASSaS7XKiQNzyZvwmk3uHcdNIK2YKdGIW0E7T1PPq3mY="
