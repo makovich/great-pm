@@ -10,4 +10,4 @@ script:
   - grunt travis
 
 env:
-  - secure: "Ha8fZd8sXM6kqEdQlgLt1Z7dv/zWBzlfBAqI2/X6Kzi1miCfZWcTJ8/ubv3sbfm7ExBSQbTe9r/bflwiNFK5xBv4byrh1Y/dSRdQtV3KrTwx5mJtq1G9oUTIFx5baI+ASSaS7XKiQNzyZvwmk3uHcdNIK2YKdGIW0E7T1PPq3mY="
+  - secure: "ORoHaptYYIFnmVdaYLaT9CJj2ScB+aeljofX9RSeoS09xAf5x/TvFWNnV3cfr0uecSyFetrFYlOFfNbpvno4b7GzViN+Knt7QBiWwzkkSTF4goUb/16c2D7KE0SIQUCl78ckP8VR+jvygvh/InftgFH/Vv1yxJJwsnWOwgtOM3w="
