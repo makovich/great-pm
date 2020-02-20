@@ -1,5 +1,5 @@
 module.exports = {
-    all: {
-        src: ['tmp/', 'dist/']
-    }
+  all: {
+    src: ['tmp/', 'dist/']
+  }
 };

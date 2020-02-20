@@ -1,4 +1,4 @@
-## Are you a [great.pm](http://great.pm/)? [![Build Status](https://travis-ci.org/makovich/great-pm.svg?branch=master)](https://travis-ci.org/makovich/great-pm)
+## Are you a [great.pm](http://makovich.github.io/great-pm/)? [![Build Status](https://travis-ci.org/makovich/great-pm.svg?branch=master)](https://travis-ci.org/makovich/great-pm)
 
 We are dealing here with a crucial difference between a living system and a machine. A machine can be controlled; a living system can only be disturbed. Mechanistically oriented managers tend to hold on to the belief that they can control the organization if they understand how all its parts fit together. <...>
 
